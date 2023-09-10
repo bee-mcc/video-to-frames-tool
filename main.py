@@ -29,7 +29,7 @@ total = count
 count = 1
 
 while count != total:
-  numberOfFramesToExtend = random.randint(12, min(48, total - count))
+  numberOfFramesToExtend = random.randint(22, min(60, total - count))
   extendedFrames = 0
 
   while extendedFrames != numberOfFramesToExtend:

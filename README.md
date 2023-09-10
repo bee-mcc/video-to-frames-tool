@@ -4,7 +4,7 @@ This is a tool to create videos by selecting and lengthening the duration of ran
 
 ## Use cases and examples
 
-This program can create some pretty trippy videos from old media. See example 1, example 2, example 3. Furthermore, this tool could be enhanced to "comic-i-fy" any type of video.
+This program can create some pretty trippy videos from old media. See [example 1](https://www.reddit.com/user/bee_mcc_webdev/comments/16fawo9/frame_reducer_example_1/?utm_source=share&utm_medium=web2x&context=3). Furthermore, this tool could be enhanced to "comic-i-fy" any type of video.
 
 ## Instructions
 
