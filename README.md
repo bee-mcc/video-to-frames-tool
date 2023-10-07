@@ -30,3 +30,7 @@ Collate frames into video (check video codec, framerate, and pixel format to use
 Can also use glob matching if output frame images in different format
 
 `ffmpeg -framerate 30 -pattern_type glob -i 'frame*.jpg' \ -i output-audio.eac3 -c:a copy -shortest -c:v h264 -pix_fmt yuv420p out.mp4`
+
+## Background
+
+I was over at a friend's house one evening, and we were trying to watch an episode of Spongebob. His computer had some issue preventing the video from loading more than a frame or two every two or three seconds, but it loaded the audio fine. I thought it was the most hilarious thing at the time... so I decided to recreate it. Simple code is cool.
